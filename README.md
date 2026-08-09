@@ -7,5 +7,3 @@
 <br />
 <div align="center">
 <br />
-<br />
-<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/2aaf4c2e-037a-4121-9e2b-78f59a47cb06" /> <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/2a61ce10-cada-4811-8425-598d189354f4" />
